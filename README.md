@@ -1,6 +1,6 @@
 # Guess-the-number-game
 
-this is a very simple game that writen with python programming language
+this is a very simple game that written with python programming language
 
 -------------------------------------------------------------------------
 
